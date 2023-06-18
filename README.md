@@ -1,9 +1,9 @@
 # Contents
-1. [Introduction](Introduction)
-2. [Requirements](Requirements)
-3. [How to run](How-to-run)
-4. [Citation](Citation)
-5. [License](License)
+1. [Introduction](#introduction)
+2. [Requirements](#requirements)
+3. [How to run](#how-to-run)
+4. [Citation](#citation)
+5. [License](#license)
 
 # Introduction
 
@@ -13,7 +13,7 @@ On this web page, we provide the Python implementation of the anger detection me
 
 The proposed method was implemented using Python 3.9.16. To implement five machine learning algorithms (logistic regression, k-nearest neighbors, Naive Bayes, c-suport vector machine, and decision tree), we utilized scikit-learn 1.2.1. Additionally, we employed matplotlib 3.6.2 and numpy 1.23.5.
 
-# How to run
+# How to Run
 
 ## 1. Dataset Preparation
 
