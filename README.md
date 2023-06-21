@@ -1,7 +1,7 @@
 # Contents
 1. [Introduction](#introduction)
 2. [Requirements](#requirements)
-3. [How to run](#how-to-run)
+3. [How to Run](#how-to-run)
 4. [Citation](#citation)
 5. [License](#license)
 
