@@ -39,7 +39,7 @@ Please cite this paper in your publications if it helps your research.
   title={Multi-Time Window Feature Extraction Technique for Anger Detection in Gait Data},
   year={2023},
   volume={28},
-  number={4}
+  number={4},
   pages={41-51},
   doi={10.9708/jksci.2023.28.04.041}
 }
