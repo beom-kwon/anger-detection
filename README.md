@@ -40,7 +40,7 @@ Please cite this paper in your publications if it helps your research.
   year={2023},
   volume={28},
   number={4},
-  pages={41-51},
+  pages={41--51},
   doi={10.9708/jksci.2023.28.04.041}
 }
 ```
